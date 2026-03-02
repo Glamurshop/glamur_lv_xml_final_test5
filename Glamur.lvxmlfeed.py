@@ -165,4 +165,4 @@ if __name__ == "__main__":
         build_lv_xml(items)
     except Exception as e:
         print(f"❌ Klaida: {e}")
-    input("✅ Atlikta. Paspausk Enter, kad uždarytum.")
+  
