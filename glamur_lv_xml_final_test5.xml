@@ -1518,7 +1518,7 @@
   <product>
     <title>&lt;![CDATA[Ariana Grande Cloud EDP smaržas 100ml]]&gt;</title>
     <price>55.84</price>
-    <stock>111</stock>
+    <stock>110</stock>
     <ean_code>&lt;![CDATA[812256023289]]&gt;</ean_code>
     <sku>who-122496</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/492063_cloud_edp_l.jpg?v=1760745031</image_url>
@@ -1968,7 +1968,7 @@
   <product>
     <title>&lt;![CDATA[Armani Acqua di Gio Man EDT smaržas 100ml]]&gt;</title>
     <price>66.10</price>
-    <stock>51</stock>
+    <stock>50</stock>
     <ean_code>&lt;![CDATA[None]]&gt;</ean_code>
     <sku>who-404</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/191_acqua_di_gio_man_edt_l_e6a82281-ec00-4622-9ef6-254f59430b54.jpg?v=1772700830</image_url>
@@ -2013,7 +2013,7 @@
   <product>
     <title>&lt;![CDATA[Armani Acqua di Gioia EDP smaržas 100ml]]&gt;</title>
     <price>84.36</price>
-    <stock>332</stock>
+    <stock>331</stock>
     <ean_code>&lt;![CDATA[3605521172525]]&gt;</ean_code>
     <sku>who-19784</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/403448_acqua_di_gioia_edp_l_e4e3e9ac-413d-456b-b939-e09c67b91921.jpg?v=1771594003</image_url>
@@ -2133,7 +2133,7 @@
   <product>
     <title>&lt;![CDATA[Armani Emporio He EDT 100ml]]&gt;</title>
     <price>46.26</price>
-    <stock>82</stock>
+    <stock>81</stock>
     <ean_code>&lt;![CDATA[None]]&gt;</ean_code>
     <sku>who-408</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/193_emporio_he_edt_l_011af9b7-229b-49a1-a5d5-156674373cd3.jpg?v=1772700842</image_url>
@@ -2178,7 +2178,7 @@
   <product>
     <title>&lt;![CDATA[Armani My Way Nectar EDP smaržas 30ml]]&gt;</title>
     <price>63.50</price>
-    <stock>7</stock>
+    <stock>6</stock>
     <ean_code>&lt;![CDATA[3614273947787]]&gt;</ean_code>
     <sku>who-197455</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/549492_my_way_nectar_edp_l_496af49d-6cf9-4277-b651-6466c2c3f7ab.jpg?v=1771594044</image_url>
@@ -3663,7 +3663,7 @@
   <product>
     <title>&lt;![CDATA[Cacharel Anais Anais L`Original EDT 100ml]]&gt;</title>
     <price>32.44</price>
-    <stock>214</stock>
+    <stock>213</stock>
     <ean_code>&lt;![CDATA[3360374533205]]&gt;</ean_code>
     <sku>who-81133</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/457820_anais_anais_loriginal_edt_l.jpg?v=1760747007</image_url>
@@ -3747,21 +3747,6 @@
     <category_full>Parfīmi &gt; Cacharel</category_full>
     <category_link>https://glamur.lv/collections/cacharel</category_link>
     <product_url>https://glamur.lv/products/cacharel-noa-edt?variant=51963822342410&amp;lang=lv</product_url>
-    <delivery_cost_riga>2.89</delivery_cost_riga>
-    <used>0</used>
-  </product>
-  <product>
-    <title>&lt;![CDATA[Cacharel Yes I Am Bloom Up! EDP smaržas 30ml]]&gt;</title>
-    <price>21.83</price>
-    <stock>2</stock>
-    <ean_code>&lt;![CDATA[3614273756402]]&gt;</ean_code>
-    <sku>who-217879</sku>
-    <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/546644_yes_i_am_bloom_up_edp_l_da25bac4-de02-4f0b-9c0d-76236d87116c.jpg?v=1771595051</image_url>
-    <manufacturer>&lt;![CDATA[Cacharel]]&gt;</manufacturer>
-    <category_name>Cacharel</category_name>
-    <category_full>Parfīmi &gt; Cacharel</category_full>
-    <category_link>https://glamur.lv/collections/cacharel</category_link>
-    <product_url>https://glamur.lv/products/cacharel-yes-i-am-bloom-up-edp?variant=51963822473482&amp;lang=lv</product_url>
     <delivery_cost_riga>2.89</delivery_cost_riga>
     <used>0</used>
   </product>
@@ -4878,7 +4863,7 @@
   <product>
     <title>&lt;![CDATA[Clinique Happy for Men EDC 100ml]]&gt;</title>
     <price>30.64</price>
-    <stock>19</stock>
+    <stock>17</stock>
     <ean_code>&lt;![CDATA[20714080310]]&gt;</ean_code>
     <sku>who-729</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/350_happy_for_men_edc_l_6528c5b3-82fe-43ea-bc52-ff852cb9344b.jpg?v=1771595772</image_url>
@@ -6378,7 +6363,7 @@
   <product>
     <title>&lt;![CDATA[DKNY Golden Delicious EDP 100ml]]&gt;</title>
     <price>29.47</price>
-    <stock>142</stock>
+    <stock>141</stock>
     <ean_code>&lt;![CDATA[85715950116]]&gt;</ean_code>
     <sku>who-39149</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/423042_golden_delicious_edp_l_56a6a3e8-40e7-41c1-8f1f-7d5c71deb150.jpg?v=1771596416</image_url>
@@ -6588,7 +6573,7 @@
   <product>
     <title>&lt;![CDATA[Dolce Gabbana Light Blue pour Homme EDT 125ml]]&gt;</title>
     <price>44.68</price>
-    <stock>9</stock>
+    <stock>8</stock>
     <ean_code>&lt;![CDATA[8057971180370]]&gt;</ean_code>
     <sku>who-5778</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/3478_light_blue_pour_homme_edt_l_4e736451-eee3-4d20-9aa3-9d80b1b5afe9.jpg?v=1771596465</image_url>
@@ -8523,7 +8508,7 @@
   <product>
     <title>&lt;![CDATA[Guerlain La Petite Robe Noire Eau de Parfum Absolue EDP 100ml]]&gt;</title>
     <price>50.23</price>
-    <stock>29</stock>
+    <stock>28</stock>
     <ean_code>&lt;![CDATA[3346470147393]]&gt;</ean_code>
     <sku>who-197498</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/549520_la_petite_robe_noire_eau_de_parfum_absolue_edp_l_173c1b16-cc8c-4435-ac35-383031efac7c.jpg?v=1771597673</image_url>
@@ -11238,7 +11223,7 @@
   <product>
     <title>&lt;![CDATA[Issey Miyake L'Eau D'Issey pour Homme EDT 125ml]]&gt;</title>
     <price>38.02</price>
-    <stock>371</stock>
+    <stock>370</stock>
     <ean_code>&lt;![CDATA[3423470311365]]&gt;</ean_code>
     <sku>who-711</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/340_leau_dissey_pour_homme_edt_l.jpg?v=1760752598</image_url>
@@ -14073,7 +14058,7 @@
   <product>
     <title>&lt;![CDATA[Lancome Trésor EDP 100ml]]&gt;</title>
     <price>83.40</price>
-    <stock>59</stock>
+    <stock>58</stock>
     <ean_code>&lt;![CDATA[None]]&gt;</ean_code>
     <sku>who-665</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/314_tresor_edp_l_7bb46a4b-2cfd-4ed0-b0df-4c221b430b32.jpg?v=1772702499</image_url>
@@ -14133,7 +14118,7 @@
   <product>
     <title>&lt;![CDATA[Lanvin Eclat D'Arpege EDP smaržas 100ml]]&gt;</title>
     <price>32.19</price>
-    <stock>2010</stock>
+    <stock>2008</stock>
     <ean_code>&lt;![CDATA[3386461515671]]&gt;</ean_code>
     <sku>who-792</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/389_eclat_darpege_edp_l.jpg?v=1760754410</image_url>
@@ -15618,7 +15603,7 @@
   <product>
     <title>&lt;![CDATA[Narciso Rodriguez All Of Me EDP smaržas 30ml]]&gt;</title>
     <price>43.78</price>
-    <stock>25</stock>
+    <stock>24</stock>
     <ean_code>&lt;![CDATA[3423222080945]]&gt;</ean_code>
     <sku>who-189921</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/544163_all_of_me_edp_l_247f74da-361a-4eef-ac02-f02300d639c4.jpg?v=1771600226</image_url>
@@ -16068,7 +16053,7 @@
   <product>
     <title>&lt;![CDATA[Nishane Hacivat Extrait de Parfum 100ml]]&gt;</title>
     <price>144.07</price>
-    <stock>207</stock>
+    <stock>205</stock>
     <ean_code>&lt;![CDATA[8683608071225]]&gt;</ean_code>
     <sku>who-160531</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/522218_hacivat_extrait_de_parfum_l.jpg?v=1760757174</image_url>
@@ -16173,7 +16158,7 @@
   <product>
     <title>&lt;![CDATA[Old Spice Deep Sea dezodoranta zīmulis – spēcīgs dezodorants vīriešiem 50ml]]&gt;</title>
     <price>7.12</price>
-    <stock>34</stock>
+    <stock>33</stock>
     <ean_code>&lt;![CDATA[8001841283944]]&gt;</ean_code>
     <sku>who-144900</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/508844_deep_sea_deodorant_stick_tuhy_deodorant_pro_muze_l.jpg?v=1760757343</image_url>
@@ -16188,7 +16173,7 @@
   <product>
     <title>&lt;![CDATA[Old Spice Nightpanther dezodorants 50ml]]&gt;</title>
     <price>7.12</price>
-    <stock>33</stock>
+    <stock>32</stock>
     <ean_code>&lt;![CDATA[8006540424148]]&gt;</ean_code>
     <sku>who-193203</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/546467_nightpanther_deodorant_tuhy_deodorant_l_16e029cb-0a8b-4b20-82e5-1ae51ad8160e.jpg?v=1771600542</image_url>
@@ -21243,7 +21228,7 @@
   <product>
     <title>&lt;![CDATA[Zadig &amp;amp; Voltaire Šis ir īsts viņš! Intense EDT 100ml]]&gt;</title>
     <price>52.09</price>
-    <stock>5</stock>
+    <stock>4</stock>
     <ean_code>&lt;![CDATA[3423222106706]]&gt;</ean_code>
     <sku>who-204836</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/554508_this_is_really_him_intense_edt_l_abd10484-983e-4d70-b481-1f4fff284dc7.jpg?v=1771602904</image_url>
@@ -28096,6 +28081,21 @@
     <used>0</used>
   </product>
   <product>
+    <title>&lt;![CDATA[La Roche-Posay Lipikar Lait Urea 10% ķermeņa losjons 200ml]]&gt;</title>
+    <price>21.46</price>
+    <stock>3</stock>
+    <ean_code>&lt;![CDATA[3337875852333]]&gt;</ean_code>
+    <sku>who-203391</sku>
+    <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/553736_lipikar_lait_urea_10_body_lotion_zklidnujici_telove_mleko_pro_velmi_suchou_pokozku_l_0ee58492-7aec-4daa-bd04-b65635ed85e1.jpg?v=1771598754</image_url>
+    <manufacturer>&lt;![CDATA[La Roche-Posay]]&gt;</manufacturer>
+    <category_name>La Roche-Posay</category_name>
+    <category_full>Parfīmi &gt; La Roche-Posay</category_full>
+    <category_link>https://glamur.lv/collections/la-roche-posay</category_link>
+    <product_url>https://glamur.lv/products/la-roche-posay-lipikar-lait-urea-10-kuno-losjonas?variant=51965731668234&amp;lang=lv</product_url>
+    <delivery_cost_riga>2.89</delivery_cost_riga>
+    <used>0</used>
+  </product>
+  <product>
     <title>&lt;![CDATA[La Roche-Posay Redermic Retinol Correcteur Anti-Age ir koncentrēts pretgrumbu līdzeklis. Default Title]]&gt;</title>
     <price>37.43</price>
     <stock>7</stock>
@@ -31323,7 +31323,7 @@
   <product>
     <title>&lt;![CDATA[Milk_Shake Curl Passion šampūns 300ml]]&gt;</title>
     <price>14.87</price>
-    <stock>4</stock>
+    <stock>3</stock>
     <ean_code>&lt;![CDATA[8032274104476]]&gt;</ean_code>
     <sku>who-202055</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/551149_curl_passion_shampoo_vyzivujici_sampon_pro_kudrnate_vlasy_l.jpg?v=1760796578</image_url>
@@ -36603,7 +36603,7 @@
   <product>
     <title>&lt;![CDATA[Redken skābais koncentrētais šampūns saistvielām 300ml]]&gt;</title>
     <price>25.37</price>
-    <stock>8</stock>
+    <stock>7</stock>
     <ean_code>&lt;![CDATA[884486456281]]&gt;</ean_code>
     <sku>who-165990</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/526406_acidic_bonding_concentrate_shampoo_obnovujici_a_ochranny_sampon_pro_poskozene_vlasy_l.jpg?v=1760802705</image_url>
@@ -37428,7 +37428,7 @@
   <product>
     <title>&lt;![CDATA[Revlon Professional Colorstay grims kombinētai/taukainai ādai 200 Nude]]&gt;</title>
     <price>9.47</price>
-    <stock>8</stock>
+    <stock>7</stock>
     <ean_code>&lt;![CDATA[309974700047]]&gt;</ean_code>
     <sku>who-121263</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/468370_colorstay_makeup_for_combination_oily_skin_smisena_az_mastna_plet_makeup_s_pumpickou_30_ml_l.jpg?v=1760803174</image_url>
@@ -39393,7 +39393,7 @@
   <product>
     <title>&lt;![CDATA[Swissdent Stainless Extreme Whitening zobu pasta – balinoša zobu pasta smēķētājiem 100ml]]&gt;</title>
     <price>18.20</price>
-    <stock>455</stock>
+    <stock>454</stock>
     <ean_code>&lt;![CDATA[7640126190037]]&gt;</ean_code>
     <sku>who-28012</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/412633_extreme_whitening_toothpaste_belici_zubni_pasta_pro_kuraky_l_3869b73d-7b23-4120-bc4e-96222ae1b5dd.jpg?v=1771601950</image_url>
@@ -42498,7 +42498,7 @@
   <product>
     <title>&lt;![CDATA[WoodWick mūžzaļā kašmira vāze 275.0g]]&gt;</title>
     <price>21.27</price>
-    <stock>29</stock>
+    <stock>28</stock>
     <ean_code>&lt;![CDATA[5038581155784]]&gt;</ean_code>
     <sku>who-191677</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/545294_evergreen_cashmere_vaza_stale_zeleny_kasmir_vonna_svicka_l.jpg?v=1760809871</image_url>
@@ -46308,7 +46308,7 @@
   <product>
     <title>&lt;![CDATA[VT Cosmetics Reedle Shot 100 2 Step Mask - Divfāžu sejas maska ​​ar nostiprinošu efektu 27ml]]&gt;</title>
     <price>6.08</price>
-    <stock>13</stock>
+    <stock>12</stock>
     <ean_code>&lt;![CDATA[8803463006037]]&gt;</ean_code>
     <sku>who-226403</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/569268_reedle_shot_100_2_step_mask_dvoufazova_pletova_maska_se_zpevnujicim_ucinkem_l.jpg?v=1760808734</image_url>
@@ -46953,7 +46953,7 @@
   <product>
     <title>&lt;![CDATA[Vichy daudzfunkcionāls līdzeklis pret matu izkrišanu sievietēm Dercos Aminexil Clinical 5 x 21 6 ml 21ml]]&gt;</title>
     <price>59.32</price>
-    <stock>49</stock>
+    <stock>47</stock>
     <ean_code>&lt;![CDATA[3337875522786]]&gt;</ean_code>
     <sku>who-103276</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/478388_dercos_aminexil_clinical_5_pro_intensive_treatment_vlasova_kura_proti_vypadavani_vlasu_pro_zeny_l.jpg?v=1760808321</image_url>
@@ -47328,7 +47328,7 @@
   <product>
     <title>&lt;![CDATA[Vichy Dercos Energizing Conditioner – stiprinošs kondicionieris pret matu izkrišanu 200ml]]&gt;</title>
     <price>20.52</price>
-    <stock>22</stock>
+    <stock>21</stock>
     <ean_code>&lt;![CDATA[3337875678094]]&gt;</ean_code>
     <sku>who-154187</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/488828_dercos_energising_conditioner_posilujici_kondicioner_proti_padani_vlasu_l.jpg?v=1760808251</image_url>
@@ -47373,7 +47373,7 @@
   <product>
     <title>&lt;![CDATA[Vichy Dercos Anti-Dirruff Dry Hair ECO Supplement - pretblaugznu šampūns sausiem matiem 390ml]]&gt;</title>
     <price>17.75</price>
-    <stock>101</stock>
+    <stock>99</stock>
     <ean_code>&lt;![CDATA[0]]&gt;</ean_code>
     <sku>who-228461</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/553069_dercos_antidandruff_dry_hair_eco_refill_napln_sampon_proti_lupum_pro_suche_vlasy_l.jpg?v=1760808228</image_url>
@@ -56148,7 +56148,7 @@
   <product>
     <title>&lt;![CDATA[Pitralon Polar pēcskūšanās losjons 100ml]]&gt;</title>
     <price>8.37</price>
-    <stock>42</stock>
+    <stock>32</stock>
     <ean_code>&lt;![CDATA[9001498302509]]&gt;</ean_code>
     <sku>who-188948</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/543523_polar_after_shave_voda_po_holeni_l.jpg?v=1760801382</image_url>
@@ -64801,6 +64801,21 @@
     <used>0</used>
   </product>
   <product>
+    <title>&lt;![CDATA[La Roche-Posay Toleriane Fluid Cleanser – kosmētiskais tīrīšanas līdzeklis 200ml]]&gt;</title>
+    <price>21.46</price>
+    <stock>3</stock>
+    <ean_code>&lt;![CDATA[3433422406599]]&gt;</ean_code>
+    <sku>who-56507</sku>
+    <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/439756_toleriane_cleanser_fluid_odlicovaci_cistici_emulze_l.jpg?v=1760792955</image_url>
+    <manufacturer>&lt;![CDATA[La Roche-Posay]]&gt;</manufacturer>
+    <category_name>La Roche-Posay</category_name>
+    <category_full>Parfīmi &gt; La Roche-Posay</category_full>
+    <category_link>https://glamur.lv/collections/la-roche-posay</category_link>
+    <product_url>https://glamur.lv/products/la-roche-posay-toleriane-fluid-cleanser-kosmetinis-prausiklis?variant=51982722597130&amp;lang=lv</product_url>
+    <delivery_cost_riga>2.89</delivery_cost_riga>
+    <used>0</used>
+  </product>
+  <product>
     <title>&lt;![CDATA[La Roche-Posay Toleriane Derallergo nakts krēms (ļoti jutīgai ādai) 40ml]]&gt;</title>
     <price>27.40</price>
     <stock>2</stock>
@@ -64857,6 +64872,21 @@
     <category_full>Parfīmi &gt; La Roche-Posay</category_full>
     <category_link>https://glamur.lv/collections/la-roche-posay</category_link>
     <product_url>https://glamur.lv/products/la-roche-posay-solution-micellaire-physiologique-fiziologinis-micelinis-viruo?variant=51982722728202&amp;lang=lv</product_url>
+    <delivery_cost_riga>2.89</delivery_cost_riga>
+    <used>0</used>
+  </product>
+  <product>
+    <title>&lt;![CDATA[La Roche-Posay Doux Extreme Shampoo-Gel Physiological 200 ml 400ml]]&gt;</title>
+    <price>23.16</price>
+    <stock>3</stock>
+    <ean_code>&lt;![CDATA[3337872414282]]&gt;</ean_code>
+    <sku>who-86897</sku>
+    <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/443971_kerium_extra_gentle_physiological_shampoo_jemny_fyziologicky_sampon_l.jpg?v=1760792935</image_url>
+    <manufacturer>&lt;![CDATA[La Roche-Posay]]&gt;</manufacturer>
+    <category_name>La Roche-Posay</category_name>
+    <category_full>Parfīmi &gt; La Roche-Posay</category_full>
+    <category_link>https://glamur.lv/collections/la-roche-posay</category_link>
+    <product_url>https://glamur.lv/products/la-roche-posay-sampunas-fiziologinis-keriumas-doux-extreme-sampunas-gel-physiological-200-ml?variant=51982722760970&amp;lang=lv</product_url>
     <delivery_cost_riga>2.89</delivery_cost_riga>
     <used>0</used>
   </product>
@@ -64947,6 +64977,21 @@
     <category_full>Parfīmi &gt; La Roche-Posay</category_full>
     <category_link>https://glamur.lv/collections/la-roche-posay</category_link>
     <product_url>https://glamur.lv/products/la-roche-posay-redermic-c-paakiu-kremas?variant=51982723023114&amp;lang=lv</product_url>
+    <delivery_cost_riga>2.89</delivery_cost_riga>
+    <used>0</used>
+  </product>
+  <product>
+    <title>&lt;![CDATA[La Roche-Posay Physiologique 24H dezodorants — fizioloģisks rullējamais dezodorants 50ml]]&gt;</title>
+    <price>19.48</price>
+    <stock>3</stock>
+    <ean_code>&lt;![CDATA[3337872412158]]&gt;</ean_code>
+    <sku>who-123484</sku>
+    <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/493671_physiologique_24h_deodorant_fyziologicky_deodorant_rollon_l.jpg?v=1760792913</image_url>
+    <manufacturer>&lt;![CDATA[La Roche-Posay]]&gt;</manufacturer>
+    <category_name>La Roche-Posay</category_name>
+    <category_full>Parfīmi &gt; La Roche-Posay</category_full>
+    <category_link>https://glamur.lv/collections/la-roche-posay</category_link>
+    <product_url>https://glamur.lv/products/la-roche-posay-physiologique-24h-dezodorantas-fiziologinis-ritininis-dezodorantas?variant=51982723088650&amp;lang=lv</product_url>
     <delivery_cost_riga>2.89</delivery_cost_riga>
     <used>0</used>
   </product>
@@ -72408,7 +72453,7 @@
   <product>
     <title>&lt;![CDATA[Farouk Systems CHI Deep Brilliance Shine serums, viegla nenoskalojama procedūra 177ml]]&gt;</title>
     <price>23.82</price>
-    <stock>16</stock>
+    <stock>15</stock>
     <ean_code>&lt;![CDATA[0]]&gt;</ean_code>
     <sku>who-109005</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/482864_chi_deep_brilliance_shine_serum_light_weight_leavein_treatment_lehka_bezoplachova_pece_l.jpg?v=1760786974</image_url>
@@ -74358,7 +74403,7 @@
   <product>
     <title>&lt;![CDATA[Driclor antiperspirants rullītis pret pārmērīgu svīšanu Šķīdums 20 ml 20ml]]&gt;</title>
     <price>13.64</price>
-    <stock>2942</stock>
+    <stock>2941</stock>
     <ean_code>&lt;![CDATA[5054563093592]]&gt;</ean_code>
     <sku>who-115422</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/487807_antiperspirant_solution_antiperspirant_rollon_l.jpg?v=1760785232</image_url>
@@ -86388,7 +86433,7 @@
   <product>
     <title>&lt;![CDATA[Zimaya Rabab EDP 100ml]]&gt;</title>
     <price>21.88</price>
-    <stock>13</stock>
+    <stock>12</stock>
     <ean_code>&lt;![CDATA[6290171071013]]&gt;</ean_code>
     <sku>who-209469</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/557360_rabab_edp_l.jpg?v=1760762837</image_url>
@@ -89898,7 +89943,7 @@
   <product>
     <title>&lt;![CDATA[Versace Versense dezodorants 50ml]]&gt;</title>
     <price>26.44</price>
-    <stock>172</stock>
+    <stock>171</stock>
     <ean_code>&lt;![CDATA[8011003997039]]&gt;</ean_code>
     <sku>who-16023</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/399661_versense_deospray_l.jpg?v=1760761691</image_url>
@@ -94383,7 +94428,7 @@
   <product>
     <title>&lt;![CDATA[Šveices armijas Black Steel EDT pudele 100ml]]&gt;</title>
     <price>14.83</price>
-    <stock>78</stock>
+    <stock>73</stock>
     <ean_code>&lt;![CDATA[7611160127679]]&gt;</ean_code>
     <sku>who-185145</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/540804_black_steel_edt_l.jpg?v=1760760301</image_url>
@@ -97578,7 +97623,7 @@
   <product>
     <title>&lt;![CDATA[Roja Parfums Elysium Eau Intense EDP 100ml]]&gt;</title>
     <price>164.40</price>
-    <stock>28</stock>
+    <stock>27</stock>
     <ean_code>&lt;![CDATA[5056663800001]]&gt;</ean_code>
     <sku>who-200677</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/551811_elysium_eau_intense_edp_l.jpg?v=1760759491</image_url>
@@ -101088,7 +101133,7 @@
   <product>
     <title>&lt;![CDATA[Rasasi Hawas Tropical EDP 100ml]]&gt;</title>
     <price>37.45</price>
-    <stock>5</stock>
+    <stock>4</stock>
     <ean_code>&lt;![CDATA[614514464441]]&gt;</ean_code>
     <sku>who-226329</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/569196_hawas_tropical_edp_l.jpg?v=1760758791</image_url>
@@ -101103,7 +101148,7 @@
   <product>
     <title>&lt;![CDATA[Rasasi Hawas For Him EDP 100 ml 100ml]]&gt;</title>
     <price>25.48</price>
-    <stock>300</stock>
+    <stock>299</stock>
     <ean_code>&lt;![CDATA[614514331026]]&gt;</ean_code>
     <sku>who-159451</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/521412_hawas_for_him_edp_l.jpg?v=1760758787</image_url>
@@ -105632,7 +105677,7 @@
   </product>
   <product>
     <title>&lt;![CDATA[Paco Rabanne Invictus pēc skūšanās 100ml]]&gt;</title>
-    <price>43.62</price>
+    <price>42.91</price>
     <stock>305</stock>
     <ean_code>&lt;![CDATA[3349668515714]]&gt;</ean_code>
     <sku>who-69399</sku>
@@ -106473,7 +106518,7 @@
   <product>
     <title>&lt;![CDATA[Old Spice Restart dezodorants – cietais dezodorants 50ml]]&gt;</title>
     <price>7.12</price>
-    <stock>48</stock>
+    <stock>46</stock>
     <ean_code>&lt;![CDATA[8001841858395]]&gt;</ean_code>
     <sku>who-156637</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/519107_restart_deo_stick_tuhy_deodorant_l.jpg?v=1760757376</image_url>
@@ -106503,7 +106548,7 @@
   <product>
     <title>&lt;![CDATA[Old Spice Original dezodoranta zīmulis ir izturīgs dezodorants vīriešiem. 50ml]]&gt;</title>
     <price>7.12</price>
-    <stock>62</stock>
+    <stock>57</stock>
     <ean_code>&lt;![CDATA[0]]&gt;</ean_code>
     <sku>who-113383</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/486179_original_deodorant_stick_tuhy_deodorant_pro_muze_l.jpg?v=1760757370</image_url>
@@ -111348,7 +111393,7 @@
   <product>
     <title>&lt;![CDATA[Marc Jacobs Daisy Glow EDT smaržas 50ml]]&gt;</title>
     <price>45.20</price>
-    <stock>5</stock>
+    <stock>4</stock>
     <ean_code>&lt;![CDATA[0]]&gt;</ean_code>
     <sku>who-219354</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/564057_daisy_glow_edt_l.jpg?v=1760755871</image_url>
@@ -123483,7 +123528,7 @@
   <product>
     <title>&lt;![CDATA[Jaguar Jaguar vīriešiem EDT 100ml]]&gt;</title>
     <price>17.62</price>
-    <stock>8</stock>
+    <stock>7</stock>
     <ean_code>&lt;![CDATA[3562700361005]]&gt;</ean_code>
     <sku>who-981</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/487_jaguar_for_man_edt_l.jpg?v=1760752722</image_url>
@@ -126063,7 +126108,7 @@
   <product>
     <title>&lt;![CDATA[Hugo Boss Dark Blue EDT 75ml]]&gt;</title>
     <price>24.56</price>
-    <stock>273</stock>
+    <stock>271</stock>
     <ean_code>&lt;![CDATA[737052031415]]&gt;</ean_code>
     <sku>who-446</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/210_dark_blue_edt_l.jpg?v=1760751932</image_url>
@@ -126078,7 +126123,7 @@
   <product>
     <title>&lt;![CDATA[Hugo Boss Bottled No. 6 Unlimited EDT smaržas 100ml]]&gt;</title>
     <price>38.75</price>
-    <stock>120</stock>
+    <stock>119</stock>
     <ean_code>&lt;![CDATA[737052766775]]&gt;</ean_code>
     <sku>who-70556</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/453320_bottled_no6_unlimited_edt_l_c4cdeaa5-70a5-46a7-af94-6ed864e6985e.jpg?v=1771597976</image_url>
@@ -128808,7 +128853,7 @@
   <product>
     <title>&lt;![CDATA[Guess Seductive Blue EDT vīriešiem 100ml]]&gt;</title>
     <price>24.03</price>
-    <stock>59</stock>
+    <stock>58</stock>
     <ean_code>&lt;![CDATA[85715001634]]&gt;</ean_code>
     <sku>who-48043</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/431713_seductive_blue_for_men_edt_l.jpg?v=1760751019</image_url>
@@ -140238,7 +140283,7 @@
   <product>
     <title>&lt;![CDATA[Calvin Klein Escape EDP smaržas 100ml]]&gt;</title>
     <price>26.03</price>
-    <stock>219</stock>
+    <stock>218</stock>
     <ean_code>&lt;![CDATA[88300608409]]&gt;</ean_code>
     <sku>who-109</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/41_escape_edp_l_87a6a53f-0ba8-4dcd-bca8-82ac346dc853.jpg?v=1771595090</image_url>
@@ -142683,7 +142728,7 @@
   <product>
     <title>&lt;![CDATA[Bentley Bentley for Men EDP smaržas vīriešiem 100ml]]&gt;</title>
     <price>28.67</price>
-    <stock>243</stock>
+    <stock>242</stock>
     <ean_code>&lt;![CDATA[7640111497547]]&gt;</ean_code>
     <sku>who-64151</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/447312_bentley_for_men_intense_edp_l.jpg?v=1760746167</image_url>
@@ -142743,7 +142788,7 @@
   <product>
     <title>&lt;![CDATA[Bentley Bentley Azure vīriešiem EDT 100ml]]&gt;</title>
     <price>26.29</price>
-    <stock>180</stock>
+    <stock>179</stock>
     <ean_code>&lt;![CDATA[7640111505631]]&gt;</ean_code>
     <sku>who-70949</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/453703_bentley_for_men_azure_edt_l.jpg?v=1760746158</image_url>
@@ -154218,7 +154263,7 @@
   <product>
     <title>&lt;![CDATA[Afnan Pure Musk EDP parfimērijas ūdens 100ml]]&gt;</title>
     <price>21.27</price>
-    <stock>212</stock>
+    <stock>209</stock>
     <ean_code>&lt;![CDATA[6290171002130]]&gt;</ean_code>
     <sku>who-159229</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/521240_pure_musk_edp_l.jpg?v=1760743434</image_url>
@@ -154833,7 +154878,7 @@
   <product>
     <title>&lt;![CDATA[Afnan 9AM sievietēm EDP 100ml]]&gt;</title>
     <price>27.16</price>
-    <stock>201</stock>
+    <stock>200</stock>
     <ean_code>&lt;![CDATA[6290171072591]]&gt;</ean_code>
     <sku>who-176396</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/534579_9am_pour_femme_edp_l.jpg?v=1760743352</image_url>
@@ -156348,7 +156393,7 @@
   <product>
     <title>&lt;![CDATA[4711 losjons pēc skūšanās 100ml]]&gt;</title>
     <price>10.48</price>
-    <stock>81</stock>
+    <stock>73</stock>
     <ean_code>&lt;![CDATA[4011700749317]]&gt;</ean_code>
     <sku>who-25912</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/410479_4711_after_shave_voda_po_holeni_l.jpg?v=1760742803</image_url>
@@ -156612,6 +156657,21 @@
     <category_full>Parfīmi &gt; Rinkiniai</category_full>
     <category_link>https://glamur.lv/collections/rinkiniai</category_link>
     <product_url>https://glamur.lv/products/slapias-sepetys-slapias-sepetys-disney-princeses-belle-rinkinys?variant=52004947001610&amp;lang=lv</product_url>
+    <delivery_cost_riga>2.89</delivery_cost_riga>
+    <used>0</used>
+  </product>
+  <product>
+    <title>&lt;![CDATA[Vichy (7 dienu antiperspiranta krēms) 30 ml 30 ml]]&gt;</title>
+    <price>17.02</price>
+    <stock>3</stock>
+    <ean_code>&lt;![CDATA[None]]&gt;</ean_code>
+    <sku>who-103274</sku>
+    <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/478386_7_day_antiperspirant_antiperspirant_pro_zeny_l.jpg?v=1760808161</image_url>
+    <manufacturer>&lt;![CDATA[Vichy]]&gt;</manufacturer>
+    <category_name>Vichy</category_name>
+    <category_full>Parfīmi &gt; Vichy</category_full>
+    <category_link>https://glamur.lv/collections/vichy</category_link>
+    <product_url>https://glamur.lv/products/vichy-7-dienu-kremas-nuo-prakaitavimo-30-ml?variant=52004952277258&amp;lang=lv</product_url>
     <delivery_cost_riga>2.89</delivery_cost_riga>
     <used>0</used>
   </product>
@@ -166098,7 +166158,7 @@
   <product>
     <title>&lt;![CDATA[Khadlaj salas EDP 100ml]]&gt;</title>
     <price>32.83</price>
-    <stock>270</stock>
+    <stock>269</stock>
     <ean_code>&lt;![CDATA[6291107978789]]&gt;</ean_code>
     <sku>who-226088</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/569014_island_edp_l.jpg?v=1762786548</image_url>
@@ -197943,7 +198003,7 @@
   <product>
     <title>&lt;![CDATA[Versace Dylan Purple dāvanu komplekts EDP 30 ml un ķermeņa losjons 50 ml 30ml]]&gt;</title>
     <price>37.38</price>
-    <stock>185</stock>
+    <stock>184</stock>
     <ean_code>&lt;![CDATA[8011003902514]]&gt;</ean_code>
     <sku>who-195028</sku>
     <image_url>https://cdn.shopify.com/s/files/1/0864/5161/8058/files/547798_dylan_purple_darkova_sada_edp_30_ml_a_telove_mleko_50_ml_l.jpg?v=1769174043</image_url>
